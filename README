@@ -1,0 +1,41 @@
+Baffko International – Landing Page
+
+A modern, responsive landing page built with React and Tailwind CSS to showcase Baffko International’s services, projects, and contact information.
+
+✨ Features
+
+Responsive, mobile-first design
+
+Reusable content driven by centralized constants
+
+Services, portfolio, and contact sections
+
+Clean UI with image-based highlights
+
+🛠 Tech Stack
+
+React
+
+Tailwind CSS
+
+Vite
+
+📁 Project Structure
+
+src/constants.jsx – Centralized content (navigation links, hero section, services, and projects)
+
+src/assets/ – Images used across the site
+
+🚀 Getting Started
+npm install
+npm run dev
+
+🔗 Live Demo
+
+https://my-portfolio-projects-bice.vercel.app/
+
+📌 Author
+
+Oladejo Kolawole
+
+
